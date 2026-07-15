@@ -11,5 +11,18 @@
       }
     ],
     "config_count": 1
+  },
+  "name:Fallout_Shelter": {
+    "name": "Fallout Shelter",
+    "folders": [
+      "Fallout Shelter"
+    ],
+    "devices": [
+      {
+        "m": "vivo V2352A",
+        "s": "Unknown"
+      }
+    ],
+    "config_count": 1
   }
 }
