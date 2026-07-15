@@ -1,1 +1,15 @@
-{}
+{
+  "name:MudRunner": {
+    "name": "MudRunner",
+    "folders": [
+      "MudRunner"
+    ],
+    "devices": [
+      {
+        "m": "vivo V2352A",
+        "s": "Unknown"
+      }
+    ],
+    "config_count": 1
+  }
+}
