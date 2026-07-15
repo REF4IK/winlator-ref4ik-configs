@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "gameName": "MudRunner",
+  "gameExe": "D:/MudRunner/MudRunner.exe",
+  "description": "",
+  "device": "vivo V2352A",
+  "gpu": "Unknown",
+  "exportedAt": 1784152032000,
+  "containerSettings": {},
+  "shortcutExtraData": {
+    "steamAppId": "675010",
+    "inputType": "5",
+    "dxwrapperConfig": "version=2.4.1,framerate=0,maxDeviceMemory=0,async=0,asyncCache=0,tearFree=Auto,maxFrameLatency=0,tilerMode=Auto,deferSurfaceCreation=0,disableMsaa=0,maxTessFactor=0,syncInterval=-1,maxFeatureLevel=12_1,forceRefreshRate=0,shaderModel=3,floatEmulation=Auto,samplerAnisotropy=-1,enableMemoryDefrag=Auto,lowerSinCos=Auto,clampNegativeLodBias=Auto,samplerLodBias=0.0,numCompilerThreads=0,enableGraphicsPipelineLibrary=Auto,relaxedBarriers=Auto",
+    "simTouchScreen": "0",
+    "sharpnessEffect": "None",
+    "sharpnessLevel": "100",
+    "sharpnessDenoise": "100",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=noconform,sysmem DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api VKD3D_SHADER_MODEL=6_6"
+  },
+  "meta": {
+    "upload_token": "p6wg4szw1jqlz030"
+  }
+}
