@@ -24,5 +24,18 @@
       }
     ],
     "config_count": 2
+  },
+  "name:Miside": {
+    "name": "Miside",
+    "folders": [
+      "Miside"
+    ],
+    "devices": [
+      {
+        "m": "vivo V2352A",
+        "s": "Unknown"
+      }
+    ],
+    "config_count": 1
   }
 }
