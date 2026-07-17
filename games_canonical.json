@@ -8,9 +8,13 @@
       {
         "m": "vivo V2352A",
         "s": "Unknown"
+      },
+      {
+        "m": "Test Device",
+        "s": "Test GPU"
       }
     ],
-    "config_count": 5
+    "config_count": 6
   },
   "name:Fallout_Shelter": {
     "name": "Fallout Shelter",
