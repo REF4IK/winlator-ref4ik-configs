@@ -11,14 +11,14 @@
     "createdAt": "2026-07-17T08:10:01.529Z"
   },
   {
-    "sha": "7827b331d1218525",
+    "sha": "ced074c79a1de78b",
     "gameName": "MudRunner",
-    "zipUrl": "https://raw.githubusercontent.com/REF4IK/winlator-ref4ik-configs/main/bundles/MudRunner/7827b331d1218525.zip",
-    "configUrl": "https://raw.githubusercontent.com/REF4IK/winlator-ref4ik-configs/main/bundles/MudRunner/7827b331d1218525.config.json",
-    "size": 10774989,
+    "zipUrl": "https://raw.githubusercontent.com/REF4IK/winlator-ref4ik-configs/main/bundles/MudRunner/ced074c79a1de78b.zip",
+    "configUrl": "https://raw.githubusercontent.com/REF4IK/winlator-ref4ik-configs/main/bundles/MudRunner/ced074c79a1de78b.config.json",
+    "size": 14124597,
     "description": "",
     "device": "vivo V2352A",
     "gpu": "Adreno 735",
-    "createdAt": "2026-07-17T08:15:42.073Z"
+    "createdAt": "2026-07-17T08:16:27.443Z"
   }
 ]
